@@ -9,7 +9,7 @@ public class Calculator2 {
     
 
 
-      System.out.println("preço total com a taxa " + total);
+      System.out.println("Preço total com a taxa " + total);
 
     }
     public static void main(String[] args) {
